@@ -1,0 +1,13 @@
+
+{
+  "sections": {
+    "main": {
+      "type": "wonderment-helper",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
